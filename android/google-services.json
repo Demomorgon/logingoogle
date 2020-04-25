@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "349645300960",
+    "firebase_url": "https://gatosfamiliares.firebaseio.com",
+    "project_id": "gatosfamiliares",
+    "storage_bucket": "gatosfamiliares.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349645300960:android:8d5188c6cae1b1bc829c85",
+        "android_client_info": {
+          "package_name": "com.example.logingoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349645300960-bjcbmfqips6ocscp79hbt9r3736d4fmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChJ05OltN7gdqNedz2CMTVjBMYuQMQiY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349645300960-bjcbmfqips6ocscp79hbt9r3736d4fmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
